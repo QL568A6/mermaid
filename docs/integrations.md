@@ -110,6 +110,9 @@ They also serve as proof of concept, for the variety of things that can be built
   - [iodide-mermaid-plugin](https://github.com/iodide-project/iodide-mermaid-plugin)
 - [Google docs](https://docs.google.com/)
   - [Mermaid plugin for google docs](https://workspace.google.com/marketplace/app/mermaid/636321283856)
+- [Joplin](https://joplinapp.org/)
+  - [Markdown Guide: Diagrams](https://joplinapp.org/markdown/#diagrams) 
+
 
 ## Document Generation
 
